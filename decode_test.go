@@ -14,10 +14,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/goccy/go-yaml"
-	"github.com/goccy/go-yaml/ast"
-	"github.com/goccy/go-yaml/internal/errors"
-	"github.com/goccy/go-yaml/parser"
+	"github.com/korylprince/go-yaml"
+	"github.com/korylprince/go-yaml/ast"
+	"github.com/korylprince/go-yaml/internal/errors"
+	"github.com/korylprince/go-yaml/parser"
 	"golang.org/x/xerrors"
 )
 

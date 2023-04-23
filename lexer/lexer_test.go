@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/goccy/go-yaml/lexer"
-	"github.com/goccy/go-yaml/token"
+	"github.com/korylprince/go-yaml/lexer"
+	"github.com/korylprince/go-yaml/token"
 )
 
 func TestTokenize(t *testing.T) {

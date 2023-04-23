@@ -1,7 +1,7 @@
 package yaml
 
 import (
-	"github.com/goccy/go-yaml/ast"
+	"github.com/korylprince/go-yaml/ast"
 	"golang.org/x/xerrors"
 )
 
